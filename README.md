@@ -148,3 +148,5 @@ public void naoDeveSerPossivelNegociarUmAtacanteComUmClubeQueTemReputacaoHistori
     - naoDeveSerPossivelNegociarPorFaltaDeCaixaDisponivel
     - deveCalcularCorretamenteOPrecoDoMeioCampoComMenosDeTrintaAnos
     - deveCalcularCorretamenteOPrecoDoMeioCampoComMaisDeTrintaAnos
+
+OBS: APLICAÇÃO CRIADA USANDO O JDK 8, E JUNIT 4.
